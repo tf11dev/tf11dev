@@ -17,7 +17,7 @@ e em ambientes profissionais colaborativos, atuando principalmente em aplicaçõ
 - 🎓 Graduando em Computação na Universidade Estadual do Ceará (UECE)
 - 💻 Desenvolvedor em processo de aprendizagem e aprimoramento.
 - 🚀 Experiência em projetos que automatizaram processos reais e reduziram trabalho manual.
-- 🔗 Explore meus projetos no <a href="https://github.com/Tadeu-Filho-dev?tab=repositories" target="_blank">GitHub</a>
+- 🔗 Explore meus projetos no <a href="https://github.com/tf11dev?tab=repositories" target="_blank">GitHub</a>
 
 <br>
 
