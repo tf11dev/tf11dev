@@ -11,8 +11,7 @@
 
 ## 👨🏽‍💻 Sobre mim
 
-Sou Tadeu Filho, estudante de Computação na UECE, com foco em desenvolvimento frontend. Possuo experiência com desenvolvimento de soluções utilizando Portugol, além de conhecimentos iniciais em HTML, CSS e JavaScript em projetos reais desenvolvidos ao longo da graduação
-e em ambientes profissionais colaborativos, atuando principalmente em aplicações web.
+Sou Tadeu Filho, estudante de Computação na UECE, com foco em desenvolvimento frontend buscando integração com desenvolvimento backend. Possuo experiência com desenvolvimento de soluções utilizando linguagem de programação básica com VisualG, além de conhecimentos em HTML, CSS e JavaScript em projetos reais desenvolvidos ao longo da graduação e em ambientes profissionais colaborativos, atuando principalmente em aplicações web.
 
 - 🎓 Graduando em Computação na Universidade Estadual do Ceará (UECE)
 - 💻 Desenvolvedor em processo de aprendizagem e aprimoramento.
