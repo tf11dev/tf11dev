@@ -11,9 +11,9 @@
 
 ## 👨🏽‍💻 Sobre mim
 
-Sou Tadeu Filho, estudante de Computação na UECE, com foco em desenvolvimento frontend buscando integração com desenvolvimento backend. Possuo experiência com desenvolvimento de soluções utilizando linguagem de programação básica com VisualG, além de conhecimentos em HTML, CSS e JavaScript em projetos reais desenvolvidos ao longo da graduação e em ambientes profissionais colaborativos, atuando principalmente em aplicações web. Aprimorando meus conhecimentos com TypeScript, React e Node.js.
+Sou Tadeu Filho, estudante de Ciência da Computação no Centro Universidade Estácio do Ceará, com foco em desenvolvimento frontend buscando integração com desenvolvimento backend. Possuo experiência com desenvolvimento de soluções utilizando linguagem de programação básica com VisualG, além de conhecimentos em HTML, CSS e JavaScript em projetos reais desenvolvidos ao longo da graduação e em ambientes profissionais colaborativos, atuando principalmente em aplicações web. Aprimorando meus conhecimentos com TypeScript, React e Node.js.
 
-- 🎓 Graduando em Computação na Universidade Estadual do Ceará (UECE)
+- 🎓 Graduando em Ciência da Computação no Centro Universidade Estácio do Ceará.
 - 💻 Desenvolvedor em processo de aprendizagem e aprimoramento.
 - 🚀 Experiência em projetos que automatizaram processos reais e reduziram trabalho manual.
 - 🔗 Explore meus projetos no <a href="https://github.com/tf11dev?tab=repositories" target="_blank">GitHub</a>
